@@ -5,7 +5,8 @@ This repository contains Commodore 64 software written by Gordon Axmann. It incl
 Contents (currently)
 - ANABASIS (2P game): `programmes/anabasis/`
 
-Licence
+## Licence
+
 Each program folder contains its own licence text. In general, use and redistribution are permitted only
 for non-commercial purposes and only in unmodified form. See the relevant `LICENSE.txt` or the licence
 section in the program README.
