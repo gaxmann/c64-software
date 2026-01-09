@@ -4,6 +4,8 @@ Dieses Programm ist ein Computer-Spieler (KI) für das Brettspiel „Auf Achse�
 
 Copyright (c) 1988 Gordon Axmann
 
+***Wichtig: Benötigt das Brettspiel. Der C64 spielt als Gegner mit, du würfelst und bewegst den Lkw am Brett, Eingaben per Tastatur.***
+
 Dateien
 - Disk-Image (D64): `Auf_Achse.d64`  
 - Anleitung (PDF): `Anleitung_Auf_Achse_C64.pdf`
