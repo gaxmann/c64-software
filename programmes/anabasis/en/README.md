@@ -1,5 +1,3 @@
-# anabasis/en/README.md
-
 # ANABASIS for the C64 (English)
 
 A 2D joystick adventure for up to two players on a vast map.
