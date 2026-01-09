@@ -22,10 +22,12 @@ LOAD"*",8
 RUN
 ```
 
-Anleitung
+**Anleitung**
+
 Die PDF-Anleitung beschreibt Steuerung, Menüs, Berufe, Gegenstände, Dörfer, Speichern und die Welt-Erzeugung.
 
-Lizenz (Kurzfassung)
+**Lizenz (Kurzfassung)**
+
 Nutzung und Weitergabe sind nur für nicht-kommerzielle Zwecke und nur in unveränderter Form erlaubt.
 Copyright-Hinweise und Credits müssen erhalten bleiben; die Urheberschaft darf nicht beansprucht werden.
 Die Verbreitung geänderter Versionen (einschliesslich Bugfixes, Hacks, Übersetzungen oder veränderter bzw.
