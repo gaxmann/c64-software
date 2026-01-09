@@ -2,7 +2,7 @@
 
 This repository contains Commodore 64 software written by Gordon Axmann. It includes disk images and manuals in German and English where available.
 
-Contents (currently)
+**Contents (currently)**
 - ANABASIS (2P game): `programmes/anabasis/`
 
 ## Licence
