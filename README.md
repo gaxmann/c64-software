@@ -4,6 +4,7 @@ This repository contains Commodore 64 software written by Gordon Axmann. It incl
 
 **Contents (currently)**
 - ANABASIS (2P game): [`programmes/anabasis/`](programmes/anabasis/)
+- Auf Achse (Computerspieler): [`programmes/aufachse/`](programmes/aufachse/)
 
 ## Licence
 
