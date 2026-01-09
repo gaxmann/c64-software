@@ -5,7 +5,7 @@ Dieses Programm ist ein Computer-Spieler (KI) für das Brettspiel „Auf Achse�
 Copyright (c) 1988 Gordon Axmann
 
 Dateien
-Disk-Image (D64): `AufAchse.d64`  
+Disk-Image (D64): `Auf_Achse.d64`  
 Anleitung (PDF): `Anleitung_Auf_Achse_C64.pdf`
 
 **Start**
@@ -46,7 +46,7 @@ Pos1 (Home): Spielstand speichern.
 
 **Regelwerke**
 
-Das Programm ist für die alten Regeln (1987) erstellt. Regeländerungen der Neuauflage (2007) können die Spielstärke beeinflussen und führen in einzelnen Punkten zu Abweichungen (Details in der Anleitung).
+Das Programm ist für die alten Regeln (1987) erstellt. Regeländerungen der Neuauflage (2007) beeinflussen die Spielstärke leicht negativ (Details in der Anleitung).
 
 **Lizenz (Kurzfassung)**
 
@@ -57,7 +57,5 @@ neu verpackter Disk-Images) ist ohne vorherige schriftliche Erlaubnis nicht erla
 darf ohne Erlaubnis nicht für geänderte Versionen verwendet werden. Keine Gewährleistung.
 
 Verbindlicher Lizenztext: [`../LICENSE.txt`](../LICENSE.txt).
-
-
 
 
