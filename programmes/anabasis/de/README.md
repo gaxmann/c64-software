@@ -32,6 +32,7 @@ Die Verbreitung geänderter Versionen (einschliesslich Bugfixes, Hacks, Überset
 neu verpackter Disk-Images) ist ohne vorherige schriftliche Erlaubnis nicht erlaubt. Der Name "ANABASIS"
 darf ohne Erlaubnis nicht für geänderte Versionen verwendet werden. Keine Gewährleistung.
 
-Verbindlicher Lizenztext (Englisch): `../LICENSE.txt`.
+Verbindlicher Lizenztext (Englisch): [`../LICENSE.txt`](../LICENSE.txt).
+
 
 

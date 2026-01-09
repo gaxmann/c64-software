@@ -39,4 +39,5 @@ versions (including bugfixes, hacks, translations, or altered/re-packed disk ima
 without prior written permission. The name "ANABASIS" may not be used for modified versions without
 permission. No warranty.
 
-Full licence text: `../LICENSE.txt`.
+Full licence text: [`../LICENSE.txt`](../LICENSE.txt).
+
