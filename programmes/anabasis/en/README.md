@@ -14,7 +14,7 @@ Files
 
 **How to run**
 
-If you use VICE, the simplest way is to autostart the disk image. Select `Anabasis_en.d64` and start.
+If you use VICE, the simplest way is to autostart the disk image. Select `Anabasis_en.d64` and start or like this:
 
 `x64 -autostart ~/Software.d64`
 
