@@ -12,7 +12,8 @@ Files
 - Disk image: `Anabasis_en.d64`
 - Manual (PDF): `Manual_ANABASIS_C64_en.pdf`
 
-How to run
+**How to run**
+
 If you use VICE, the simplest way is to autostart the disk image. Select `Anabasis_en.d64` and start.
 
 `x64 -autostart ~/Software.d64`
@@ -24,15 +25,18 @@ LOAD"*",8
 RUN
 ```
 
-About the game
+**About the game**
+
 ANABASIS is set on a vast island (32k map). The aim is to find the castle of the evil wizard Saruman and defeat him. Saruman is extremely powerful (level well above 100), so you must first prepare your hero accordingly.
 
 Two-player mode allows limited cooperation (for example trading items). Combat is always resolved individually.
 
-Manual
+**Manual**
+
 The PDF manual explains controls, menus, professions, items, villages, saving, and world generation. If you only read one document, read the manual.
 
-Licence (summary)
+**Licence (summary)**
+
 Use and redistribution are permitted only for non-commercial purposes and only in unmodified form.
 You must keep all notices and credits intact and must not claim authorship. Distribution of modified
 versions (including bugfixes, hacks, translations, or altered/re-packed disk images) is not permitted
