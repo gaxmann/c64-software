@@ -3,7 +3,6 @@
 A 2D joystick adventure for up to two players on a vast map.
 
 Copyright (c) 1987 Gordon Axmann  
-Original (German): 1987  
 English translation: 2026
 
 Files
