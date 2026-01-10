@@ -8,7 +8,7 @@ Copyright (c) 1988 Gordon Axmann
 
 Dateien
 - Disk-Image (D64): `Auf_Achse.d64`  
-- Anleitung (PDF): `Anleitung_Auf_Achse_C64.pdf`
+- Anleitung (PDF): [`Anleitung_Auf_Achse_C64.pdf`](Anleitung_Auf_Achse_C64.pdf)
 
 **Start**
 
