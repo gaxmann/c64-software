@@ -1,0 +1,23 @@
+ANABASIS for the C=64
+Copyright (c) 1987 Gordon Axmann
+
+Permissions
+-----------
+You may use, copy, and redistribute UNMODIFIED copies of this program and the accompanying
+documentation for NON-COMMERCIAL purposes only.
+
+Conditions
+----------
+1) You must keep all copyright notices, credits, and this permission notice intact.
+2) You must not claim authorship or present yourself as the original author.
+3) You may not distribute modified versions (including bugfixes, hacks, translations, re-packed or
+   altered disk images) without prior written permission from the copyright holder.
+4) The name "ANABASIS" may not be used for modified versions without prior written permission.
+
+No warranty
+-----------
+This program is provided "as is", without warranty of any kind.
+
+Notes
+-----
+The original program was developed in German and translated into English in 2026.
