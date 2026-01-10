@@ -13,7 +13,7 @@ IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled
 
 ## Safety / Power
 
-Power off all machines before plugging/unplugging the userport cable. Power all computers on at the same time!
+Power off all machines before plugging/unplugging the userport cable. Power all computers on at the same!! time.
 
 ## Userport pin mapping (C64)
 
