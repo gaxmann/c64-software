@@ -1,6 +1,8 @@
 # EMPIRE für den C64 (Deutsch)
 
-Eine C64-Umsetzung des Strategie-Spiels „Empire Wargame“ (1 Spieler pro Computer) mit einem selbst entwickelten Userport-Netzwerk für bis zu vier C64.
+Ein C64-Strategie-Spiel, inspiriert vom Spielkonzept „Empire Wargame“ (1 Spieler pro Computer), mit einem selbst entwickelten Userport-Netzwerk für bis zu vier C64.
+
+*Hinweis: „Empire Wargame“ ist ein eigenständiges Werk; alle Rechte daran liegen bei den jeweiligen Rechteinhabern. Dieses Projekt ist nicht mit diesen Rechteinhabern verbunden, wird von ihnen nicht unterstützt und ist nicht von ihnen lizenziert.*
 
 © 1991 Gordon Axmann (Assembler und KI; Netzwerkfähigkeit © 1997), Michael Abramowski (Grafik, Karten & BASIC)
 
@@ -18,19 +20,13 @@ Das Spiel ist rundenbasiert. Einheiten erhalten Marschbefehle oder können warte
 
 ## Mehrspieler-Modus und Userport-Netzwerk (historisch)
 
-Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels findest du in der Datei `USERPORT-CABLE.md`. VICE simuliert den Userport nicht korrekt. Man braucht echte C64 für den Netzwerkbetrieb!
-
-***You find the specification of the userport cable for the C64 in the file `USERPORT-CABLE.md`. Please note that VICE doesn's simulate the userport correctly. You do need real, not emulated C64 for this to work.***
-
-Aus der Anleitung:
-- Die Rechner tauschten Spielzüge über das Netzwerk aus; ein Rechner war Master.
-- Die Verbindung war so schnell, dass der Master anfangs die Programm-Software darüber an die Clients verteilt hat (schneller als VC1541 mit Speeddos).
-- Der Master hatte eine Floppy; Clients benötigten nur eine Datasette und luden eine kleine (~1,5 KB) Netzwerk-Software.
+Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels findest du in der Datei `USERPORT-CABLE.md`.
+VICE simuliert den Userport nicht korrekt; für den Netzwerkbetrieb werden echte C64 benötigt.
 
 ## Anleitung
 
 Die PDF beschreibt Spielziel, Steuerung, Einheiten, Kampf/Erfahrung, Sichtsystem (Fog of War) sowie Tools rund um Karten (Map-Creator, Map-Editor, Startpositionen, Map-Adder).
 
-## Lizenz (Kurzfassung)
+## Lizenz
 
-Das Programm wurde für rein private Unterhaltungszwecke erstellt; gewerbliche Nutzung ist untersagt. Verbindlich ist der Wortlaut in der PDF-Anleitung.
+Siehe [`LICENSE.md`](LICENSE.md).
