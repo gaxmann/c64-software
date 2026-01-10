@@ -84,9 +84,8 @@ Therefore, on the ID#1 plug (only!), add:
 - 4.7 kΩ from PB7 (pin L) to local +5 V
 
 2) Activity LED (optional)
-To show “network busy” when PB7 is pulled low (LOW = busy):
-
-- local +5 V -> 2.2 kΩ -> LED (low-current!! 2mA) -> PB7 (pin L)
+- To show “network busy” when PB7 is pulled low (LOW = busy):
+- local +5 V -> 2.2 kΩ -> LED (low-current!! 2mA) -> PB7 (pin L) -- (or even better: use a transistor to power the LED 
 
 This makes the LED light when PB7 is LOW (bus in use).
 
