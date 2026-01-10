@@ -29,4 +29,4 @@ Die PDF beschreibt Spielziel, Steuerung, Einheiten, Kampf/Erfahrung, Sichtsystem
 
 ## Lizenz
 
-Siehe [`LICENSE.md`](LICENSE.md).
+Siehe [`LICENSE.txt`](LICENSE.txt).
