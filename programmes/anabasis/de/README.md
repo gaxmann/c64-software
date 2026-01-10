@@ -1,7 +1,6 @@
 # ANABASIS für den C64 (Deutsch)
 
 Ein 2D-Joystick-Abenteuer für bis zu zwei Spieler auf einer riesigen Karte.
-
 Copyright (c) 1987 Gordon Axmann  
 
 Dateien
