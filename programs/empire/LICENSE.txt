@@ -1,22 +1,53 @@
-"Auf Achse, Computerspieler" for the C=64
-Copyright (c) 1988 Gordon Axmann
+# EMPIRE C64 — LICENSE
 
-Permissions
------------
-You may use, copy, and redistribute UNMODIFIED copies of this program and the accompanying
-documentation for NON-COMMERCIAL purposes only.
+Copyright © 1991 Gordon Axmann (Assembler & KI; Netzwerkfähigkeit © 1997),
+Michael Abramowski (Grafik, Karten & BASIC).  
+Alle Rechte vorbehalten.
 
-Conditions
-----------
-1) You must keep all copyright notices, credits, and this permission notice intact.
-2) You must not claim authorship or present yourself as the original author.
-3) You may not distribute modified versions (including bugfixes, hacks, translations, re-packed or
-   altered disk images) without prior written permission from the copyright holder.
+## Hinweis zum Konzept
+Das Spiel ist in seinem Konzept inspiriert von „Empire Wargame“. „Empire Wargame“ ist ein eigenständiges Werk; alle Rechte daran liegen bei den jeweiligen Rechteinhabern. Diese Veröffentlichung steht in keiner offiziellen Verbindung zu den Rechteinhabern von „Empire Wargame“ und stellt keine Lizenzierung dieses Werks, Namens oder Konzepts dar.
 
-No warranty
------------
+## Erlaubnis (Permissions)
+Du darfst dieses Programm und die begleitende Dokumentation für **nicht-kommerzielle** Zwecke **nutzen, kopieren und weiterverbreiten**, jedoch **nur in unveränderter Form**.
+
+## Bedingungen (Conditions)
+1) Du musst alle Copyright- und Credit-Hinweise sowie diesen Lizenztext vollständig und unverändert beibehalten.  
+2) Du darfst nicht behaupten, der ursprüngliche Autor zu sein, und die Urheberschaft nicht verfälschen.  
+3) Du darfst **keine** veränderten Fassungen verbreiten (einschliesslich Bugfixes, Hacks, Übersetzungen, Re-Packaging oder veränderter Disk-Images) ohne vorherige schriftliche Zustimmung des/der Copyright-Inhaber(s).  
+4) **Übersetzungen und sonstige Änderungen:** Wenn du Übersetzungen oder Änderungen beitragen möchtest, dann nur über das **offizielle GitHub-Repository** (z. B. via Pull Request).  
+   - Du darfst Übersetzungen/Modifikationen **nicht selbst als eigene Releases/Downloads** verteilen (inkl. „inoffizielle“ Builds, Disk-Images, ZIPs usw.).  
+   - Veröffentlichung/Distribution von Übersetzungen oder modifizierten Fassungen erfolgt ausschliesslich durch die Copyright-Inhaber über die offiziellen Kanäle.
+
+## Keine Gewährleistung (No warranty)
+Dieses Programm wird „wie es ist“ bereitgestellt, ohne Gewährleistung irgendeiner Art.
+
+## Hinweise (Notes)
+Das Original wurde in deutscher Sprache entwickelt und ist derzeit nicht ins Englische übersetzt.
+
+---
+
+# EMPIRE C64 — LICENSE (ENGLISH)
+
+Copyright © 1991 Gordon Axmann (Assembler & AI; network capability © 1997),
+Michael Abramowski (graphics, maps & BASIC).  
+All rights reserved.
+
+## Concept notice
+The gameplay concept is inspired by “Empire Wargame”. “Empire Wargame” is an independent work; all rights to it belong to its respective rights holders. This release is not affiliated with, endorsed by, or licensed by the rights holders of “Empire Wargame”, and does not grant any rights in that work or name.
+
+## Permissions
+You may use, copy, and redistribute **UNMODIFIED** copies of this program and the accompanying documentation for **NON-COMMERCIAL** purposes only.
+
+## Conditions
+1) You must keep all copyright notices, credits, and this licence text intact.  
+2) You must not claim authorship or present yourself as the original author.  
+3) You may not distribute modified versions (including bugfixes, hacks, translations, re-packed or altered disk images) without prior written permission from the copyright holder(s).  
+4) **Translations and other contributions:** If you want to contribute translations or changes, do so only via the **official GitHub repository** (e.g., by submitting a pull request).  
+   - You must **not** distribute translations/modifications as your own releases/downloads (including “unofficial” builds, disk images, ZIPs, etc.).  
+   - Publishing/distribution of translations or modified versions is done exclusively by the copyright holder(s) via official channels.
+
+## No warranty
 This program is provided "as is", without warranty of any kind.
 
-Notes
------
+## Notes
 The original program was developed in German and is not yet translated into English.
