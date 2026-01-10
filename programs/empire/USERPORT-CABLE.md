@@ -72,7 +72,7 @@ There are two separate concepts:
 - ID#2: PB1 -> GND, PB0 -> +5 V
 - ID#3: PB1 -> +5 V, PB0 -> GND
 - ID#4: PB1 -> +5 V, PB0 -> +5 V
-
+-  
 - Strap to GND via 4.7 kΩ
 - Strap to +5 V via 4.7 kΩ (local +5 V on that machine)
 
