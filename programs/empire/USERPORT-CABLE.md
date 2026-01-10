@@ -4,10 +4,10 @@
 
 Text-only build guide for a 4-node (or 2 node) Commodore 64 userport network (“NET'97”). The network is a shared bus with four conductors:
 
-- 1. GND
-- 2. CNT2 (CIA2 serial clock)
-- 3. SP2  (CIA2 serial data)
-- 4. PB7  (CIA2 port B bit 7) used as BUSY / bus arbitration line (active-low)
+1. GND
+2. CNT2 (CIA2 serial clock)
+3. SP2  (CIA2 serial data)
+4. PB7  (CIA2 port B bit 7) used as BUSY / bus arbitration line (active-low)
 
 IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
 
