@@ -35,17 +35,6 @@ Zu Beginn werden abgefragt: Anzahl der Auftragskarten im Spiel und die Startposi
 
 Das Programm gibt die Fahrtrichtung vor (zum Beispiel „Fahre nach Hamburg“) und gelegentlich ein Alternativziel. Du ziehst den grauen Lkw entsprechend auf dem Brett. Bei Ereignissen und Auktionen informierst du das Programm per Taste.
 
-**Tasten (Auszug)**
-
-H: Hilfe (Tastaturbelegung)  
-F1, F2, F3, F4: Ein menschlicher Spieler bietet auf eines der vier offenen Angebote (Versteigerung). Das Programm sagt, ob es mitbietet; dann Schritt für Schritt weiterklicken, bis die Karte vergeben ist. Danach fordert das Programm die Eingabe des nachgezogenen Auftrags.  
-Leertaste: Der Computer-Lkw ist in einer Stadt angekommen, die nicht die Zielstadt ist (Name eingeben). Bei Spiel nach neueren Regeln auch beim ersten Computerzug zur Erfassung der Startstadt verwenden.  
-Enter: Der Computer-Lkw ist in der Zielstadt angekommen.  
-G: Geldstrafe (Ereigniskarte).  
-A: Sonderauftrag (Ereigniskarte).  
-F8: Ein Spieler hat das Spiel beendet.  
-Pos1 (Home): Spielstand speichern.
-
 **Regelwerke**
 
 Das Programm ist für die alten Regeln (1987) erstellt. Regeländerungen der Neuauflage (2007) beeinflussen die Spielstärke leicht negativ (Details in der Anleitung).
