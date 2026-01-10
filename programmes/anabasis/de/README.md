@@ -3,8 +3,6 @@
 Ein 2D-Joystick-Abenteuer für bis zu zwei Spieler auf einer riesigen Karte.
 
 Copyright (c) 1987 Gordon Axmann  
-Original (Deutsch): 1987  
-Englische Übersetzung: 2026
 
 Dateien
 - Disk-Image: `Anabasis.d64`
