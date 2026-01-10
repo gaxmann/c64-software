@@ -27,7 +27,7 @@ RUN
 
 ANABASIS is set on a vast island (32k map). The aim is to find the castle of the evil wizard Saruman and defeat him. Saruman is extremely powerful (level well above 100), so you must first prepare your hero accordingly.
 
-Two-player mode allows limited cooperation (for example trading items). Combat is always resolved individually.
+Two-player mode allows cooperation (for example trading items). Combat is always resolved individually.
 
 **Manual**
 
