@@ -27,7 +27,7 @@ RUN
 
 ANABASIS spielt auf einer riesigen Insel (32k-Karte). Ziel ist es, die Burg des bösen Zauberers Saruman zu finden und ihn zu besiegen. Saruman ist extrem stark (Level deutlich über 100), daher musst du deinen Helden zuerst entsprechend vorbereiten.
 
-Im Zwei-Spieler-Modus ist begrenzte Zusammenarbeit möglich (zum Beispiel Gegenstände tauschen). Kämpfe werden immer pro Spieler einzeln abgewickelt.
+Im Zwei-Spieler-Modus ist Zusammenarbeit möglich (zum Beispiel Gegenstände tauschen). Kämpfe werden immer pro Spieler einzeln abgewickelt.
 
 **Anleitung**
 
