@@ -8,4 +8,4 @@ ANABASIS is available in German and English. Please choose your preferred langua
 - English version: [`en/`](en/)
 
 ## Licence
-Full licence text: [`en/LICENSE.txt`](LICENSE.txt).
+Full licence text: [`en/LICENSE.txt`](en/LICENSE.txt).
