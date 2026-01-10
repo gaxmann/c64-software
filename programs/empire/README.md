@@ -2,7 +2,7 @@
 
 Eine C64-Umsetzung des Strategie-Spiels „Empire Wargame“ (1 Spieler pro Computer) mit einem selbst entwickelten Userport-Netzwerk für bis zu vier C64.
 
-© 1991 Gordon Axmann (Assembler, Netzwerk und KI), Michael Abramowski (Grafik, Karten & BASIC)
+© 1991 Gordon Axmann (Assembler und KI; Netzwerk © 1997), Michael Abramowski (Grafik, Karten & BASIC)
 
 ## Dateien
 
@@ -18,7 +18,9 @@ Das Spiel ist rundenbasiert. Einheiten erhalten Marschbefehle und können warten
 
 ## Mehrspieler-Modus und Userport-Netzwerk (historisch)
 
-Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels ist verloren gegangen; daher ist der Mehrspielerbetrieb heute im Emulator nicht rekonstruierbar.
+Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels findest du in der Datei `USERPORT-CABLE.md`. VICE simuliert den Userport nicht korrekt. Man braucht echte C64 für den Netzwerkbetrieb!
+
+*You do find the specification of the userport cable for the C64 in the file `USERPORT-CABLE.md`. Please note that VICE doesn's simulate the userport correctly. You do need real, not emulated C64 for this to work.*
 
 Aus der Anleitung:
 - Die Rechner tauschten Spielzüge über das Netzwerk aus; ein Rechner war Host.
