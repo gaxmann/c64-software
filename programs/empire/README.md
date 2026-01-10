@@ -20,8 +20,9 @@ Das Spiel ist rundenbasiert. Einheiten erhalten Marschbefehle oder können warte
 
 ## Mehrspieler-Modus und Userport-Netzwerk (historisch)
 
-Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels findest du in der Datei `USERPORT-CABLE.md`.
-VICE simuliert den Userport nicht korrekt; für den Netzwerkbetrieb werden echte C64 benötigt.
+Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64) gebaut. Die Spezifikation des vieradrigen Bus-Kabels findest du in der Datei `USERPORT-CABLE.md`. Der Emulator VICE simuliert den Userport nicht korrekt; für den Netzwerkbetrieb werden echte C64 benötigt.
+
+***The game was built for a self-developed user port network (up to four C64s). The specifications for the four-wire bus cable can be found in the file `USERPORT-CABLE.md`. The VICE emulator does not simulate the user port correctly; real C64s are required for network operation.***
 
 ## Anleitung
 
