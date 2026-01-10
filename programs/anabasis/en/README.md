@@ -7,7 +7,7 @@ English translation: 2026
 
 Files
 - Disk image: `Anabasis_en.d64`
-- Manual (PDF): `[Manual_ANABASIS_C64_en.pdf](Manual_ANABASIS_C64_en.pdf)`
+- Manual (PDF): [`Manual_ANABASIS_C64_en.pdf`](Manual_ANABASIS_C64_en.pdf)
 
 **How to run**
 
