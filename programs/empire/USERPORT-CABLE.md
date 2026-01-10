@@ -31,10 +31,10 @@ Signals used on each C64 userport connector:
 
 Use one 4-core cable (approx. 3 m total). Wire it as a daisy-chain physically, but electrically it is a bus: each conductor is continuous across all 4 plugs. (When you use only two plugs we tested cable length up to 20m with no problems, but when you have open unused plugs in the middle of the cable, you better only use 3m of cable.)
 
-BUS WIRE 1 (GND)  -> connect to GND pin on every plug
-BUS WIRE 2 (CNT2) -> connect to pin 6 on every plug
-BUS WIRE 3 (SP2)  -> connect to pin 7 on every plug
-BUS WIRE 4 (PB7)  -> connect to pin L on every plug
+- BUS WIRE 1 (GND)  -> connect to GND pin on every plug
+- BUS WIRE 2 (CNT2) -> connect to pin 6 on every plug
+- BUS WIRE 3 (SP2)  -> connect to pin 7 on every plug
+- BUS WIRE 4 (PB7)  -> connect to pin L on every plug
 
 Text schematic (bus):
 
