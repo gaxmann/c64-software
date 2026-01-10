@@ -1,9 +1,9 @@
-# C64 software
+# Commodore 64 software
 
-This repository contains Commodore 64 software. It includes disk images and manuals in German and English where available.
+This repository contains original Commodore 64 software written by me in the 1980s. It includes disk images and, where available, manuals in German and English.
 
 **Contents (currently)**
-- ANABASIS (2 player RPG 2D game): [`programmes/anabasis/`](programmes/anabasis/)
+- ANABASIS (2-player RPG 2D game): [`programmes/anabasis/`](programmes/anabasis/)
 - Auf Achse (Computerspieler): [`programmes/aufachse/`](programmes/aufachse/)
 
 ## Licence
