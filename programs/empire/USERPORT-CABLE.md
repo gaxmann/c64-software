@@ -38,12 +38,12 @@ Use one 4-core cable (approx. 3 m total). Wire it as a daisy-chain physically, b
 
 Text schematic (bus):
 
-  [C64 ID#1]---[C64 ID#4]---[C64 ID#3]---[C64 ID#2]
-     |             |            |            |
-   GND------------GND----------GND----------GND
-   CNT2-----------CNT2---------CNT2---------CNT2
-   SP2------------SP2----------SP2----------SP2
-   PB7------------PB7----------PB7----------PB7
+-   [C64 ID#1]---[C64 ID#4]---[C64 ID#3]---[C64 ID#2]
+-      |             |            |            |
+-    GND------------GND----------GND----------GND
+-    CNT2-----------CNT2---------CNT2---------CNT2
+-    SP2------------SP2----------SP2----------SP2
+-    PB7------------PB7----------PB7----------PB7
 
 ## BUSY line (PB7)
 
