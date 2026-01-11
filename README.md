@@ -5,7 +5,7 @@ This repository contains original Commodore 64 software written by me in the 198
 **Contents (currently)**
 - ANABASIS (2-player RPG 2D game): [`programs/anabasis/`](programs/anabasis/)
 - Auf Achse (Computerspieler): [`programs/aufachse/`](programs/aufachse/)
-- Empire C64: [`programs/empire/`](programs/empire/)
+- Empire C64 (network game): [`programs/empire/`](programs/empire/)
 
 ## Licence
 
