@@ -11,6 +11,23 @@ Text-only build guide for a 4-node (or 2-node) Commodore 64 userport network (�
 
 IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
 
+## BOM — USERPORT NETWORK CABLE (“NET'97”)
+
+(4 nodes; values in [brackets] are for 2 nodes)
+
+- 9× 4.7 kΩ resistors [5× 4.7 kΩ]
+- 1× 3.3 kΩ resistor (LED, optional; ID#1 only)
+- 1× low-current LED (~2 mA), red or green (optional; ID#1 only)
+
+- 4× C64 userport plugs [2×]
+- 4× userport plug covers / housings [2×]
+
+- 1× 4-core cable, preferably shielded, approx. 3 m total
+- Heat-shrink tubing (assorted)
+- Small insulated hookup wire (short internal wiring in plugs)
+- Strain relief parts (cable clamp or equivalent, depends on housing)
+- Labels: ID#1 … ID#4 [ID#1 … ID#2]
+
 ## Safety / Power
 
 Power off all machines before plugging/unplugging the userport cable. Power all computers on at the same!! time.
@@ -88,23 +105,6 @@ Therefore, on the ID#1 plug (only!), add:
 - local +5 V -> 3.3 kΩ -> LED (low-current!!, red or green, 2mA) -> PB7 (pin L) 
 
 This makes the LED light when PB7 is LOW (bus in use). - **IMPORTANT:** you HAVE to use a low-current!! 2mA LED. The resistor is calculated for a red (or green) LED.
-
-## BOM — USERPORT NETWORK CABLE (“NET'97”)
-
-(4 nodes; values in [brackets] are for 2 nodes)
-
-- 9× 4.7 kΩ resistors [5× 4.7 kΩ]
-- 1× 3.3 kΩ resistor (LED, optional; ID#1 only)
-- 1× low-current LED (~2 mA), red or green (optional; ID#1 only)
-
-- 4× C64 userport plugs [2×]
-- 4× userport plug covers / housings [2×]
-
-- 1× 4-core cable, preferably shielded, approx. 3 m total
-- Heat-shrink tubing (assorted)
-- Small insulated hookup wire (short internal wiring in plugs)
-- Strain relief parts (cable clamp or equivalent, depends on housing)
-- Labels: ID#1 … ID#4 [ID#1 … ID#2]
 
 ## Assembly steps (practical)
 
