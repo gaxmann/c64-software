@@ -91,8 +91,8 @@ This makes the LED light when PB7 is LOW (bus in use).
 
 ## Assembly steps (practical)
 
-1. Prepare 4 userport plugs and label them ID#1, ID#2, ID#3, ID#4.
-2. Solder the 4-core bus cable through all plugs (GND, CNT2, SP2, PB7), mind the right order of the plugs: ID#1, ID#4, ID#3, ID#2
+1. Prepare 4 (or 2) userport plugs and label them ID#1, ID#2, ID#3, ID#4.
+2. Solder the 4-core bus cable through all plugs (GND, CNT2, SP2, PB7), mind the right order of the plugs: ID#1, [ID#4, ID#3,] ID#2
 3. Add ID resistors on each plug:
    - PB0 strap
    - PB1 strap
