@@ -28,6 +28,8 @@ Das Spiel wurde für ein selbst entwickeltes Userport-Netzwerk (bis zu vier C64)
 
 Die PDF beschreibt Spielziel, Steuerung, Einheiten, Kampf/Erfahrung, Sichtsystem (Fog of War) sowie Tools rund um Karten (Map-Creator, Map-Editor, Startpositionen, Map-Adder).
 
+Es gibt 2 Disks: Empire (die Startdisk), und EmpireSaveDisk (eine Disk, auf der Spielstände gespeichert werden können). 
+
 ## Lizenz
 
 Siehe [`LICENSE.txt`](LICENSE.txt).
