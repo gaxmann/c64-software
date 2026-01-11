@@ -9,11 +9,7 @@ Text-only build guide for a 4-node (or 2-node) Commodore 64 userport network (�
 3. SP2  (CIA2 serial data)
 4. PB7  (CIA2 port B bit 7) used as BUSY / bus arbitration line (active-low)
 
-IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
-
-## Safety / Power
-
-Power off all machines before plugging/unplugging the userport cable. Power all computers on at the same!! time.
+Network computer IDs are strapped inside each plug via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
 
 ## Userport pin mapping (C64)
 
@@ -56,7 +52,7 @@ Text schematic (bus):
 - 4× C64 userport plugs [2×]
 - 4× userport plug covers / housings [2×]
 
-- 1× 4-core cable, shielded, approx. 3 m total [optionally up to 20 m]
+- 1× 4-core cable, shielded, approx. 3 m total (= 3× 1 m) [optionally much longer]
 - Heat-shrink tubing (assorted)
 - Strain relief parts (cable clamp, cable ties or equivalent, depends on housing)
 - An edding pen or labels: ID#1 … ID#4 [ID#1 … ID#2]
