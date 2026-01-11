@@ -24,9 +24,8 @@ IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled
 
 - 1× 4-core cable, preferably shielded, approx. 3 m total [optionally up to 20 m]
 - Heat-shrink tubing (assorted)
-- Small insulated hookup wire (short internal wiring in plugs)
-- Strain relief parts (cable clamp or equivalent, depends on housing)
-- Labels: ID#1 … ID#4 [ID#1 … ID#2]
+- Strain relief parts (cable clamp, cable ties or equivalent, depends on housing)
+- An edding pen or labels: ID#1 … ID#4 [ID#1 … ID#2]
 
 ## Safety / Power
 
