@@ -11,7 +11,7 @@ Text-only build guide for a 4-node (or 2-node) Commodore 64 userport network (�
 
 IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
 
-## BOM — USERPORT NETWORK CABLE (“NET'97”)
+## BILL OF MATERIALS (BOM)
 
 (4 nodes; values in [brackets] are for 2 nodes)
 
