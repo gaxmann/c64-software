@@ -22,7 +22,7 @@ IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled
 - 4× C64 userport plugs [2×]
 - 4× userport plug covers / housings [2×]
 
-- 1× 4-core cable, preferably shielded, approx. 3 m total
+- 1× 4-core cable, preferably shielded, approx. 3 m total [optionally up to 20 m]
 - Heat-shrink tubing (assorted)
 - Small insulated hookup wire (short internal wiring in plugs)
 - Strain relief parts (cable clamp or equivalent, depends on housing)
