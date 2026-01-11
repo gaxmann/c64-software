@@ -29,7 +29,7 @@ Signals used on each C64 userport connector:
 
 ## Cable (bus) wiring
 
-Use one 4-core cable (approx. 3 m total). Wire it as a daisy-chain physically, but electrically it is a bus: each conductor is continuous across all 4 plugs. (When you use only two plugs we tested cable length up to 20m with no problems, but when you have open unused plugs in the middle of the cable, you better only use 3m of cable.)
+Use one 4-core cable (approx. 3 m total). It is good to use a shielded data cable. Wire it as a daisy-chain physically, but electrically it is a bus: each conductor is continuous across all 4 plugs. (When you use only two plugs we tested cable length up to 20m with no problems, but when you have open unused plugs in the middle of the cable, you better only use 3m of cable.)
 
 - BUS WIRE 1 (GND)  -> connect to GND pin on every plug
 - BUS WIRE 2 (CNT2) -> connect to pin 6 on every plug
@@ -88,6 +88,23 @@ Therefore, on the ID#1 plug (only!), add:
 - local +5 V -> 3.3 kΩ -> LED (low-current!!, red or green, 2mA) -> PB7 (pin L) 
 
 This makes the LED light when PB7 is LOW (bus in use). - **IMPORTANT:** you HAVE to use a low-current!! 2mA LED. The resistor is calculated for a red (or green) LED.
+
+## BOM — USERPORT NETWORK CABLE (“NET'97”)
+
+(4 nodes; values in [brackets] are for 2 nodes)
+
+- 9× 4.7 kΩ resistors [5× 4.7 kΩ]
+- 1× 3.3 kΩ resistor (LED, optional; ID#1 only)
+- 1× low-current LED (~2 mA), red or green (optional; ID#1 only)
+
+- 4× C64 userport plugs [2×]
+- 4× userport plug covers / housings [2×]
+
+- 1× 4-core cable, preferably shielded, approx. 3 m total
+- Heat-shrink tubing (assorted)
+- Small insulated hookup wire (short internal wiring in plugs)
+- Strain relief parts (cable clamp or equivalent, depends on housing)
+- Labels: ID#1 … ID#4 [ID#1 … ID#2]
 
 ## Assembly steps (practical)
 
