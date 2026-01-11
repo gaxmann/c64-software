@@ -34,7 +34,7 @@ Use one 4-core cable (approx. 3 m total). It is good to use a shielded data cabl
 
 Text schematic (bus):
 
--   [C64 ID#1]---[C64 ID#4]---[C64 ID#3]---[C64 ID#2]
+-   (C64 ID#1)---(C64 ID#4)---(C64 ID#3)---(C64 ID#2)
 -   
 -    GND------------GND----------GND----------GND
 -    CNT2-----------CNT2---------CNT2---------CNT2
