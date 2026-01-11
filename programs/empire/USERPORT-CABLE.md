@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Text-only build guide for a 4-node (or 2 node) Commodore 64 userport network (“NET'97”). The network is a shared bus with four conductors:
+Text-only build guide for a 4-node (or 2-node) Commodore 64 userport network (“NET'97”). The network is a shared bus with four conductors:
 
 1. GND
 2. CNT2 (CIA2 serial clock)
