@@ -11,22 +11,6 @@ Text-only build guide for a 4-node (or 2-node) Commodore 64 userport network (�
 
 IDs are strapped via PB0/PB1 (two bits = 4 possible IDs). The plugs are labelled ID#1..ID#4 (this matches the internal numbering used by the network software).
 
-## Bill of materials (BOM)
-
-(4 nodes; values in [brackets] are for 2 nodes)
-
-- 9× 4.7 kΩ resistors [5× 4.7 kΩ]
-- 1× 3.3 kΩ resistor (LED, optional; ID#1 only)
-- 1× low-current LED (~2 mA), red or green (optional; ID#1 only)
-
-- 4× C64 userport plugs [2×]
-- 4× userport plug covers / housings [2×]
-
-- 1× 4-core cable, shielded, approx. 3 m total [optionally up to 20 m]
-- Heat-shrink tubing (assorted)
-- Strain relief parts (cable clamp, cable ties or equivalent, depends on housing)
-- An edding pen or labels: ID#1 … ID#4 [ID#1 … ID#2]
-
 ## Safety / Power
 
 Power off all machines before plugging/unplugging the userport cable. Power all computers on at the same!! time.
@@ -61,6 +45,22 @@ Text schematic (bus):
 -    SP2------------SP2----------SP2----------SP2
 -    PB7------------PB7----------PB7----------PB7
 
+## Bill of materials (BOM)
+
+(4 nodes; values in [brackets] are for 2 nodes)
+
+- 9× 4.7 kΩ resistors [5× 4.7 kΩ]
+- 1× 3.3 kΩ resistor (LED, optional; ID#1 only)
+- 1× low-current LED (~2 mA), red or green (optional; ID#1 only)
+
+- 4× C64 userport plugs [2×]
+- 4× userport plug covers / housings [2×]
+
+- 1× 4-core cable, shielded, approx. 3 m total [optionally up to 20 m]
+- Heat-shrink tubing (assorted)
+- Strain relief parts (cable clamp, cable ties or equivalent, depends on housing)
+- An edding pen or labels: ID#1 … ID#4 [ID#1 … ID#2]
+
 ## BUSY line (PB7)
 
 PB7 is active-low BUSY:
@@ -73,16 +73,11 @@ Two inputs define the node ID:
 - PB0 = ID bit 0 (LSB)
 - PB1 = ID bit 1 (MSB)
 
-There are two separate concepts:
-
-1) Physical strap wiring (what you solder):
+Physical strap wiring (what you solder):
 - You strap PB0 and PB1 via resistors either to GND or to +5 V (local +5 V on that machine).
 - Recommended safe resistor value (also safe if a pin is accidentally configured as output): 4.7 kΩ.
 
-2) Software numbering / plug labels:
-- The network software reads PB0/PB1 and maps the 2-bit value to the internal node number. The plugs were labelled ID#1..ID#4 and this mapping matches the software.
-
-### Mapping to plug labels (ID#1..ID#4)
+The network software reads PB0/PB1 and maps the 2-bit value to the internal node number. The plugs were labelled ID#1..ID#4 and this mapping matches the software.
 
 - ID#1: PB1 -> GND, PB0 -> GND
 - ID#2: PB1 -> GND, PB0 -> +5 V
