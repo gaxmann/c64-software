@@ -52,7 +52,7 @@ Text schematic (bus):
 - 4× C64 userport plugs [2×]
 - 4× userport plug covers / housings [2×]
 
-- 1× 4-core cable, shielded, approx. 3 m total (= 3× 1 m) [optionally much longer]
+- 1× 4-core cable, shielded, approx. 3 m total (= 3× 1 m) [can be a lot longer with only 2 connectors]
 - Heat-shrink tubing (assorted)
 - Strain relief parts (cable clamp, cable ties or equivalent, depends on housing)
 - An edding pen or labels: ID#1 … ID#4 [ID#1 … ID#2]
