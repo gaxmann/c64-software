@@ -4,7 +4,7 @@ This folder contains ready-to-download ZIP packages.
 
 ## How to download a ZIP file on the GitHub website (recommended)
 
-1. Open this folder (`/zips`) in your browser.
+(0. Open this folder (`/zips`) in your browser.)
 2. Click the ZIP file you want (for example `Anabasis_en.zip`).
 3. On the file page, use one of these options:
    - Click **Download** (if shown), or
